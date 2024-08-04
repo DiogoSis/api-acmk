@@ -1,0 +1,10 @@
+/home/diogo/Documentos/estacio/sistema-registro-acmk/api-sistema-acmk/src/main/java/com/karateacademy/acmk/AcmkApplication.java
+/home/diogo/Documentos/estacio/sistema-registro-acmk/api-sistema-acmk/src/main/java/com/karateacademy/acmk/controller/AlunoController.java
+/home/diogo/Documentos/estacio/sistema-registro-acmk/api-sistema-acmk/src/main/java/com/karateacademy/acmk/controller/EventoController.java
+/home/diogo/Documentos/estacio/sistema-registro-acmk/api-sistema-acmk/src/main/java/com/karateacademy/acmk/controller/PagamentoController.java
+/home/diogo/Documentos/estacio/sistema-registro-acmk/api-sistema-acmk/src/main/java/com/karateacademy/acmk/model/Aluno.java
+/home/diogo/Documentos/estacio/sistema-registro-acmk/api-sistema-acmk/src/main/java/com/karateacademy/acmk/model/Evento.java
+/home/diogo/Documentos/estacio/sistema-registro-acmk/api-sistema-acmk/src/main/java/com/karateacademy/acmk/model/Pagamento.java
+/home/diogo/Documentos/estacio/sistema-registro-acmk/api-sistema-acmk/src/main/java/com/karateacademy/acmk/repository/AlunoRepository.java
+/home/diogo/Documentos/estacio/sistema-registro-acmk/api-sistema-acmk/src/main/java/com/karateacademy/acmk/repository/EventoRepository.java
+/home/diogo/Documentos/estacio/sistema-registro-acmk/api-sistema-acmk/src/main/java/com/karateacademy/acmk/repository/PagamentoRepository.java

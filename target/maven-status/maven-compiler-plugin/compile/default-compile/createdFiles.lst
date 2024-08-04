@@ -1,0 +1,10 @@
+com/karateacademy/acmk/controller/EventoController.class
+com/karateacademy/acmk/repository/EventoRepository.class
+com/karateacademy/acmk/controller/PagamentoController.class
+com/karateacademy/acmk/controller/AlunoController.class
+com/karateacademy/acmk/repository/PagamentoRepository.class
+com/karateacademy/acmk/AcmkApplication.class
+com/karateacademy/acmk/model/Evento.class
+com/karateacademy/acmk/model/Aluno.class
+com/karateacademy/acmk/model/Pagamento.class
+com/karateacademy/acmk/repository/AlunoRepository.class
